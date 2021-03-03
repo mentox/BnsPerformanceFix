@@ -3,6 +3,8 @@ name: Build
 on: 
   schedule:
     - cron:  '0 13 * * *' # every day 13:00 UTC (05:00 PST)
+    
+  workflow_dispatch:
 
   push:
     branches: [ master ]
