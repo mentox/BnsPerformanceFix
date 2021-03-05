@@ -19,7 +19,7 @@ jobs:
 
     strategy:
       matrix:
-        language: [ ENGLISH ]
+        language: [ ENGLISH, GERMAN ]
     
     steps:
     - name: Checkout
