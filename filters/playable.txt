@@ -97,6 +97,8 @@ PartyBattleField.Name2.*
 # system messages for pve (latest content only)
 Msg.ME_PC_Doll*
 Msg.ME_PA_FrozenArk*
+Msg.MH_PA_BlackSnake*
+Msg.ME_PC_DarkWind*
 Msg.ME_WB_MoonCat*
 
 # system messages for pvp
