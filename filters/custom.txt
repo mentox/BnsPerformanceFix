@@ -153,3 +153,16 @@ Item.Name2.General_Grocery_Box_4112
 
 # ET
 Msg.ME_WB_RedFlowerQueen_0001_msg_HL_01
+
+# BM
+Msg.MH_PA_BlackSnakeFever_*
+Msg.ME_PA_BlackSnakePosionOldman_*
+Msg.ME_PA_BlackSnakeDemonShadowBoss_*
+
+Msg.ME_PC_DarkWindNamed_*
+Msg.ME_PC_DarkWindBoss_*
+
+Msg.ME_PA_BlackSnakeLightDarkness_*
+
+# npc named Beehyung/Dobi Kaebi/Baehyung, dungeon?
+Msg.CH_CA_kaebeechon_*
