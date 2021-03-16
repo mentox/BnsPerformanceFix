@@ -13,8 +13,7 @@ Text.Otp.*
 Craft.N.*
 
 # unity level
-Name.AccountLevel_Name_0??
-Name.AccountLevel_Name_1??
+Name.AccountLevel_Name_???
 
 # player name
 Name.Pc.*
@@ -98,6 +97,9 @@ PartyBattleField.Name2.*
 Msg.ME_PC_Doll*
 Msg.ME_PA_FrozenArk*
 Msg.ME_WB_MoonCat*
+Msg.MH_PA_BlackSnake*
+Msg.ME_PC_DarkWind*
+Msg.CH_CA_kaebeechon_*
 
 # system messages for pvp
 Msg.Duel.*
@@ -151,18 +153,55 @@ Item.Name2.General_Grocery_Box_4110
 Item.Name2.General_Grocery_Box_4111
 Item.Name2.General_Grocery_Box_4112
 
+# BM loot
+# Soulshield
+Item.Name2.General_Grocery_Box_4479
+Item.Name2.General_Grocery_Box_4480
+Item.Name2.General_Grocery_Box_4481
+Item.Name2.General_Grocery_Box_4482
+Item.Name2.General_Grocery_Box_4483
+Item.Name2.General_Grocery_Box_4484
+Item.Name2.General_Grocery_Box_4485
+Item.Name2.General_Grocery_Box_4486
+# Ethereal Vial
+Item.Name2.General_Grocery_SpecialMaterial_1086
+# Weapon Material
+Item.Name2.General_Grocery_SpecialMaterial_1479
+Item.Name2.General_Grocery_SpecialMaterial_1480
+Item.Name2.General_Grocery_SpecialMaterial_1481
+# Fury/Heart/Wheel
+Item.Name2.General_Grocery_Coin_0276
+Item.Name2.General_Grocery_Coin_0277
+Item.Name2.General_Grocery_Coin_0278
+# 10 Fury Bundle
+Item.Name2.General_Grocery_Box_4525
+# Emblem
+Item.Name2.General_Grocery_SpecialMaterial_1476
+Item.Name2.General_Grocery_SpecialMaterial_1477
+Item.Name2.General_Grocery_SpecialMaterial_1478
+# Reset and Coin
+Item.Name2.General_Grocery_Coin_0282
+Item.Name2.General_Grocery_Coin_0283
+Item.Name2.General_Grocery_Coin_0284
+# Badge Chest
+Item.Name2.General_Grocery_SelectionBox_0611
+Item.Name2.General_Grocery_SelectionBox_0612
+#
+Item.Name2.General_Grocery_Box_4605
+Item.Name2.General_Grocery_Box_4606
+Item.Name2.General_Grocery_Box_4607
+Item.Name2.General_Grocery_Box_4608
+Item.Name2.General_Grocery_Box_4609
+Item.Name2.General_Grocery_Box_4610
+#
+Item.Name2.General_Grocery_Box_4531
+Item.Name2.General_Grocery_Box_4532
+Item.Name2.General_Grocery_Box_4533
+Item.Name2.General_Grocery_Box_4534
+# Nucturne
+Item.Name2.General_Grocery_SpecialMaterial_1355
+Item.Name2.General_Grocery_Coin_0256
+# Outfit Chest
+Item.Name2.General_Grocery_Box_4527
 # ET
 Msg.ME_WB_RedFlowerQueen_0001_msg_HL_01
-
-# BM
-Msg.MH_PA_BlackSnakeFever_*
-Msg.ME_PA_BlackSnakePosionOldman_*
-Msg.ME_PA_BlackSnakeDemonShadowBoss_*
-
-Msg.ME_PC_DarkWindNamed_*
-Msg.ME_PC_DarkWindBoss_*
-
-Msg.ME_PA_BlackSnakeLightDarkness_*
-
-# npc named Beehyung/Dobi Kaebi/Baehyung, dungeon?
-Msg.CH_CA_kaebeechon_*
