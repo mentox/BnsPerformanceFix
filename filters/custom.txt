@@ -13,7 +13,10 @@ Text.Otp.*
 Craft.N.*
 
 # unity level
-Name.AccountLevel_Name_???
+Name.AccountLevel_Name_0??
+Name.AccountLevel_Name_1??
+Name.AccountLevel_Name_20?
+Name.AccountLevel_Name_210
 
 # player name
 Name.Pc.*
