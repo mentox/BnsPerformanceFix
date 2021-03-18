@@ -101,6 +101,7 @@ Msg.ME_PC_Doll*
 Msg.ME_PA_FrozenArk*
 Msg.ME_WB_MoonCat*
 Msg.MH_PA_BlackSnake*
+ME_PABlackSnake*
 Msg.ME_PC_DarkWind*
 Msg.CH_CA_kaebeechon_*
 
