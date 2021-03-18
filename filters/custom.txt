@@ -101,7 +101,8 @@ Msg.ME_PC_Doll*
 Msg.ME_PA_FrozenArk*
 Msg.ME_WB_MoonCat*
 Msg.MH_PA_BlackSnake*
-ME_PABlackSnake*
+ME_PA_BlackSnakePosionOldman_0001_battle_01_text
+ME_PA_BlackSnakePosionOldman_0001_battle_04_text
 Msg.ME_PC_DarkWind*
 Msg.CH_CA_kaebeechon_*
 
