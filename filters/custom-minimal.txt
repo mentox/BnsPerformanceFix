@@ -30,6 +30,8 @@ UI.ChallengeParty*
 UI.Hypertext.*
 
 UI.ActionIcon.LeftTime.*
+UI.LeftTime.*
+UI.PassiveEffect.LeftTime.*
 
 UI.LatencyInfo.*
 UI.FPS
