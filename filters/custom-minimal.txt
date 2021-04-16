@@ -35,3 +35,7 @@ UI.PassiveEffect.LeftTime.*
 
 UI.LatencyInfo.*
 UI.FPS
+
+# right click menu aside from report and spammer options
+UI.ContextMenu.*
+UI.CommandContextMenu.*
