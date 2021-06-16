@@ -40,7 +40,7 @@ jobs:
     - name: Get Latest Patch
       id: get-patch
       run: |
-        $version = 166
+        $version = 171
         while ($true) {
           try {
             $test = $version + 1
