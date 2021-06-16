@@ -44,7 +44,7 @@ jobs:
         while ($true) {
           try {
             $test = $version + 1
-            Invoke-WebRequest -Method Head -Uri "http://d37ob46rk09il3.cloudfront.net/BnS/${test}/Patch/FileInfoMap_BnS_${test}.dat.zip"
+            Invoke-WebRequest -Method Head -Uri "https://d37ob46rk09il3.cloudfront.net/BnS/${test}/Patch/FileInfoMap_BnS_${test}.dat.zip"
             $version = $test
           } catch {
             break
@@ -78,7 +78,7 @@ jobs:
       run: |
         $version = '${{ steps.get-patch.outputs.patch }}'
         $language = '${{ matrix.language }}'
-        Invoke-WebRequest -OutFile local.dat.lzma -Uri "http://d37ob46rk09il3.cloudfront.net/BnS/${version}/Patch/Zip/contents/Local/NCWEST/${language}/data/local.dat.zip"
+        Invoke-WebRequest -OutFile local.dat.lzma -Uri "https://d37ob46rk09il3.cloudfront.net/BnS/${version}/Patch/Zip/contents/Local/NCWEST/${language}/data/local.dat.zip"
         Expand-7Zip -ArchiveFileName local.dat.lzma -TargetPath .
         Rename-Item -Path local.dat.tar -NewName local.dat
         
@@ -87,7 +87,7 @@ jobs:
       run: |
         $version = '${{ steps.get-patch.outputs.patch }}'
         $language = '${{ matrix.language }}'
-        Invoke-WebRequest -OutFile local64.dat.lzma -Uri "http://d37ob46rk09il3.cloudfront.net/BnS/${version}/Patch/Zip/contents/Local/NCWEST/${language}/data/local64.dat.zip"
+        Invoke-WebRequest -OutFile local64.dat.lzma -Uri "https://d37ob46rk09il3.cloudfront.net/BnS/${version}/Patch/Zip/contents/Local/NCWEST/${language}/data/local64.dat.zip"
         Expand-7Zip -ArchiveFileName local64.dat.lzma -TargetPath .
         Rename-Item -Path local64.dat.tar -NewName local64.dat
        
